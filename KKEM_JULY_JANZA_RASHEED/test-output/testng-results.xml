@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-18T13:09:17 IST" name="Default suite" finished-at="2022-10-18T13:09:18 IST" duration-ms="451">
+    <groups>
+    </groups>
+    <test started-at="2022-10-18T13:09:17 IST" name="Default test" finished-at="2022-10-18T13:09:18 IST" duration-ms="451">
+      <class name="com.kkem.assignment.TestClass_1">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.kkem.assignment.TestClass_1@593aaf41]" started-at="2022-10-18T13:09:12 IST" name="setup" finished-at="2022-10-18T13:09:17 IST" duration-ms="5625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Fillform()[pri:0, instance:com.kkem.assignment.TestClass_1@593aaf41]" started-at="2022-10-18T13:09:17 IST" name="Fillform" finished-at="2022-10-18T13:09:17 IST" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Fillform -->
+        <test-method signature="address()[pri:0, instance:com.kkem.assignment.TestClass_1@593aaf41]" started-at="2022-10-18T13:09:17 IST" name="address" finished-at="2022-10-18T13:09:17 IST" duration-ms="75" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- address -->
+        <test-method signature="eAddress()[pri:0, instance:com.kkem.assignment.TestClass_1@593aaf41]" started-at="2022-10-18T13:09:17 IST" name="eAddress" finished-at="2022-10-18T13:09:17 IST" duration-ms="67" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eAddress -->
+        <test-method signature="mobNum()[pri:0, instance:com.kkem.assignment.TestClass_1@593aaf41]" started-at="2022-10-18T13:09:17 IST" name="mobNum" finished-at="2022-10-18T13:09:18 IST" duration-ms="60" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobNum -->
+        <test-method signature="password()[pri:0, instance:com.kkem.assignment.TestClass_1@593aaf41]" started-at="2022-10-18T13:09:18 IST" name="password" finished-at="2022-10-18T13:09:18 IST" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- password -->
+        <test-method signature="submit()[pri:0, instance:com.kkem.assignment.TestClass_1@593aaf41]" started-at="2022-10-18T13:09:18 IST" name="submit" finished-at="2022-10-18T13:09:18 IST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submit -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.kkem.assignment.TestClass_1@593aaf41]" started-at="2022-10-18T13:09:18 IST" name="teardown" finished-at="2022-10-18T13:09:23 IST" duration-ms="5217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.kkem.assignment.TestClass_1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
